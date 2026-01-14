@@ -6,6 +6,12 @@ The data was cleaned and transformed using Power Query, and dynamic visuals were
 Users can interact with the dashboard using filters and slicers to view performance by year, model, fuel type, and transmission.
 
 
+![41beb42e-5217-4efc-90cb-a0758dd5a447](https://github.com/user-attachments/assets/0b8e585d-7731-49e5-9980-279382e97fe9)
+
+
+
+
+
 🎯 Objective
 
 The objective of this project is to:
